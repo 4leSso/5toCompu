@@ -1,0 +1,20 @@
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\bin\Debug\alesso_login.exe.config
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\bin\Debug\alesso_login.exe
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\bin\Debug\alesso_login.pdb
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\bin\Debug\alesso_login.xml
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\bin\Debug\Guna.UI.dll
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.vbprojResolveAssemblyReference.cache
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.Form1.resources
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.Form3.resources
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.Resources.resources
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.Form2.resources
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.vbproj.GenerateResource.Cache
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.exe
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.xml
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.pdb
+c:\users\alessandro\documents\visual studio 2015\Projects\alesso_login\alesso_login\obj\Debug\alesso_login.Form4.resources
+E:\alesso_login\alesso_login\bin\Debug\alesso_login.exe.config
+E:\alesso_login\alesso_login\obj\Debug\alesso_login.exe
+E:\alesso_login\alesso_login\obj\Debug\alesso_login.xml
+E:\alesso_login\alesso_login\obj\Debug\alesso_login.pdb
+E:\alesso_login\alesso_login\obj\Debug\alesso_login.vbprojResolveAssemblyReference.cache
